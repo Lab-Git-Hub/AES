@@ -25,16 +25,16 @@ Ports are categorized by type, where Type 1 indicates a port on the main waterwa
 * `port_traveltime.csv`:
 Flow-dependent sailing time of each arc in the inland waterway shipping network.
 
-### Data for Sensitivity Analysis (Section 7.3.1)
+### Data for Sensitivity Analysis (Section 7.3.)
 
-Network data used in *Section 7.3.1 Impact of the network density*.
+Network data used in *Section 7.3.1. Impact of the network density*.
 
 ## Results
 Results of *Section 7. Numerical experiments* are provided.
 
 * `Result_BS_mode.xlsx`: results of the three battery swapping strategies baseline, heuristic, and BP used in *Section 7.2.1*.
 
-* `Result_Gurobi&BP.xlsx: benchmarking results comparing Gurobi and BP across instance scales R5–R30 as reported in *Section 7.2.2*.
+* `Result_Gurobi&BP.xlsx`: benchmarking results comparing Gurobi and BP across instance scales R5–R30 as reported in *Section 7.2.2*.
 
 * `Result_BP_with_Gurobi_Incum.xlsx`: results comparing BP initialized with Gurobi’s first incumbent versus BP initialized with the construction heuristic in *Section 7.2.3*.
 
