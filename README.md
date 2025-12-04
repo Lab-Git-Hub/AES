@@ -9,7 +9,7 @@ This repository contains the data of the Yangtze River and experimental results 
 * **Benchmark_instances.xlsx**:
   Instance settings used in *Section 7. Numerical experiments*.
 
-### Benchmark data (Section 7.2.)
+### Data for Computational Results (Section 7.2.)
 
 Port26 contains the data for R5–R25, and Port30 contains the data for R30.
 
@@ -25,7 +25,7 @@ Ports are categorized by type, where Type 1 indicates a port on the main waterwa
 * **port_traveltime.csv**:
 Flow-dependent sailing time of each arc in the inland waterway shipping network.
 
-### Sensitivity data (Section 7.3.1)
+### Data for Sensitivity Analysis (Section 7.3.1)
 
 Network data used in *Section 7.3.1 Impact of the network density*.
 
