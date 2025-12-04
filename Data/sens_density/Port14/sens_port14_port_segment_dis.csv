@@ -1,0 +1,14 @@
+City1,City2,Distance
+Shanghai,Port1,56.667463
+Port1,Changshu,9.332537
+Changshu,Nantong,29.0
+Nantong,Zhangjiagang,22.0
+Zhangjiagang,Port2,25.105249
+Port2,Jiangyin,10.894751
+Jiangyin,Gaogang,62.0
+Gaogang,Port3,5.179754
+Port3,Zhenjiang,49.820246
+Zhenjiang,Port4,78.049788
+Port4,Nanjing,1.950212
+Nanjing,Ma'anshan,46.0
+Ma'anshan,Wuhu,43.0
