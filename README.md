@@ -1,10 +1,10 @@
 # Data and Results
 This repository contains the data of the Yangtze River and experimental results of the paper: 
 
-**An exact approach to the all-electric ship scheduling problem with joint cargo transport and on-site energy refueling**
+**A branch-and-price approach for optimizing all-electric ships scheduling in waterborne transport**
 
 ## Data
-Port information and sailing distances between ports are provided.
+
 
 * **port_information.csv**:
 Ports are categorized by type, where Type 1 indicates a port on the main waterway and Type 0 indicates a port on a tributary.
