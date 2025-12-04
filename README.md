@@ -38,7 +38,7 @@ Results of *Section 7. Numerical experiments* are provided.
 
 * **Result_BP_with_Gurobi_Incum.xlsx**: results comparing BP initialized with Gurobi’s first incumbent versus BP initialized with the construction heuristic in *Section 7.2.3*.
 
-* **Result_Routes.xlsx**: routing solutions for representative instances across scales R5–R30, including ship routes, battery swapping locations, and route costs.
+* **Result_Schedules.xlsx**: scheduling solutions for representative instances across scales R5–R30, including ship routes, battery swapping locations, and route costs.
 
 * **Result_sens_density.xlsx**: results of the network density sensitivity analysis presented in *Section 7.3.1*.
 
